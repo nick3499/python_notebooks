@@ -1,4 +1,4 @@
 # python_notebooks
 Python Notebooks
- - [Math Module](https://github.com/nick3499/python_notebooks/blob/master/Math_Module.ipynb)
- - [Scope](https://github.com/nick3499/python_notebooks/blob/master/Scope.ipynb)
+ - [math module](https://github.com/nick3499/python_notebooks/blob/master/math_module.ipynb)
+ - [scope](https://github.com/nick3499/python_notebooks/blob/master/scope.ipynb)
