@@ -1,5 +1,7 @@
-python_notebooks
+# python_notebooks
 ------
+## Jupyter Notebooks
+### Featuring Python Topics
  - [boolean](https://github.com/nick3499/python_notebooks/blob/master/boolean.ipynb)
  - [class](https://github.com/nick3499/python_notebooks/blob/master/class.ipynb)
  - [immutable](https://github.com/nick3499/python_notebooks/blob/master/immutable.ipynb)
