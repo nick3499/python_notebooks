@@ -1,5 +1,4 @@
 # python_notebooks
-------
 ## Jupyter Notebooks
 ### Featuring Python Topics
  - [boolean](https://github.com/nick3499/python_notebooks/blob/master/boolean.ipynb)
