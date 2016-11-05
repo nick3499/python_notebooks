@@ -10,3 +10,5 @@
  - [mutable](https://github.com/nick3499/python_notebooks/blob/master/mutable.ipynb)
  - [real](https://github.com/nick3499/python_notebooks/blob/master/real.ipynb)
  - [scope](https://github.com/nick3499/python_notebooks/blob/master/scope.ipynb)
+
+ - [/functions/](https://github.com/nick3499/python_notebooks/tree/master/functions)
